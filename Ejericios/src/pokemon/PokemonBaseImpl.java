@@ -149,8 +149,7 @@ public abstract class PokemonBaseImpl implements Pokemon {
         this.capturado = capturado;
     }
 
-    public void saludar(){
-        System.out.println("Soy pokemon tierra");
-    }
+    public abstract void saludar();
+
 
 }

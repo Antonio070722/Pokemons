@@ -16,10 +16,9 @@ public class PokemonFuego extends PokemonBaseImpl{
         super(numeroPokemon);
     }
 
+    @Override
     public void saludar(){
         System.out.println("Soy pokemon fuego");
     }
-
-
 
 }
