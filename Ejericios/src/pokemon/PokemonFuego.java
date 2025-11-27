@@ -20,4 +20,6 @@ public class PokemonFuego extends PokemonBaseImpl{
         System.out.println("Soy pokemon fuego");
     }
 
+
+
 }
